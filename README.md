@@ -2,6 +2,13 @@
 Using the power of Trollstore, I can decrypt IPA from the app store with ease. This repository serve as an archive for those IPA.
 Noted that this mainly for *offline* games only. I have little interest in uploading IPA of apps like youtube or spotify.
 
+# Other Mirror
+- G Drive: https://drive.google.com/drive/folders/1O7h4XPfh_v_dHz6HM1cOclwYxJ-5PfQR?usp=sharing
+- Mega: TBA
+- Filen: TBA
+- Onedrive: TB
+- Internet Archive: TBA
+
 # How is this possible?
 "TrollStore is a permasigned jailed app that can permanently install any IPA you open in it.
 
