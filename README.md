@@ -13,10 +13,10 @@ In short, I can sideload any ipa file without an Apple Dev account to sign the a
 With this, I can use various app to: Downgrade app, inject tweak, Change App Bundle ID/metadata, and finally, *Extract and Decrypt IPA files*.
 Full details here: 
 
-#How safe are these?
+# How safe are these?
 As these Ipa comes directly from the Apple Store itself, using my account to "bought stuff" from there, I would say they are mostly safe. Regardless, always download with caution, and put the files through any antivirus you trust if you still have doubt.
 
-#Can you upload XYZ?
+# Can you upload XYZ?
 Depend on what you're asking for. I'll Never:
 - Upload paid games/apps.
 - Upload apps with tweaked injected.
@@ -24,6 +24,6 @@ Depend on what you're asking for. I'll Never:
 
 If you can garanteed these demand, make a thread over at "Issues" with the title [REQUEST] 
 
-#IPA List
+# IPA List
 Adding to my cloud repo atp, standby.
 
